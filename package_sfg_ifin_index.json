@@ -1,0 +1,60 @@
+{
+  "packages":
+  [
+    {
+      "name": "ifin",
+      "maintainer": "Shark Fin Gear Co",
+      "websiteURL": "https://sharkfingear.com",
+      "email" : "techsupport@sharkfingear.com",
+      "platforms":
+      [
+        {
+          "name": "iFIN Boards",
+          "architecture": "cortex-m4",
+          "version": "0.0.12",
+          "category": "Contributed",
+          "url": "https://github.com/SharkFinGear/boards/blob/main/ifin-tracker-0.0.1.zip",
+          "archiveFileName": "ifin-tracker-0.0.1.zip",
+          "checksum": "SHA-256:b8cb106c824b02b56eb1e2567831164b1a77a5dd9b2cb0678bb81d035cfc1c81",
+          "size": "10139472",
+          "boards": [
+            {
+              "name": "iFIN Tracker"
+            }
+          ],
+          "toolsDependencies":
+          [
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "7-2017q4"
+            },
+            {
+              "packager": "arduino",
+              "name": "bossac",
+              "version": "1.8.0-48-gb176eee"
+            },
+            {
+              "packager": "arduino",
+              "name": "openocd",
+              "version": "0.10.0-arduino9"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS",
+              "version": "4.5.0"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS-Atmel",
+              "version": "1.2.0"
+            }
+          ]
+        }
+      ],
+      "tools":
+      [
+      ]
+    }
+  ]
+}
