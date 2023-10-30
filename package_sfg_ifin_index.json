@@ -15,8 +15,8 @@
           "category": "Contributed",
           "url": "https://raw.githubusercontent.com/SharkFinGear/boards/main/ifin-tracker-0.0.1.zip",
           "archiveFileName": "ifin-tracker-0.0.1.zip",
-          "checksum": "SHA-256:b8cb106c824b02b56eb1e2567831164b1a77a5dd9b2cb0678bb81d035cfc1c81",
-          "size": "10139472",
+          "checksum": "SHA-256:d7e2d4364088121eb61d16a02d936cc78b7327d4696d1a5ac3a45e4f1c995c8a",
+          "size": "10228494",
           "boards": [
             {
               "name": "iFIN Tracker"
