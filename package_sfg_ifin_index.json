@@ -11,12 +11,12 @@
         {
           "name": "iFIN Boards",
           "architecture": "cortex-m4",
-          "version": "0.0.1",
+          "version": "0.0.2",
           "category": "Contributed",
-          "url": "https://raw.githubusercontent.com/SharkFinGear/boards/main/ifin-tracker-0.0.1.zip",
-          "archiveFileName": "ifin-tracker-0.0.1.zip",
-          "checksum": "SHA-256:d7e2d4364088121eb61d16a02d936cc78b7327d4696d1a5ac3a45e4f1c995c8a",
-          "size": "10228494",
+          "url": "https://raw.githubusercontent.com/SharkFinGear/boards/main/ifin-tracker-0.0.2.zip",
+          "archiveFileName": "ifin-tracker-0.0.2.zip",
+          "checksum": "SHA-256:094114b4be2bb7427371b1bb7ab3b991dbad5440773baa1782987b1593a96763",
+          "size": "11949776",
           "boards": [
             {
               "name": "iFIN Tracker"
