@@ -13,7 +13,7 @@
           "architecture": "cortex-m4",
           "version": "0.0.12",
           "category": "Contributed",
-          "url": "https://raw.githubusercontent.com/SharkFinGear/boards/main/ifin-tracker-0.0.1.zip",
+          "url": "https://raw.githubusercontent.com/SharkFinGear/boards/main/ifin-tracker-0.0.12.zip",
           "archiveFileName": "ifin-tracker-0.0.12.zip",
           "checksum": "SHA-256:2a025f9e49a696f4ec53d42a9c24a673bfbd0973ec4da24805a6ca6c",
           "size": "10139472",
