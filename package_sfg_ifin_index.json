@@ -11,15 +11,18 @@
         {
           "name": "iFIN Boards",
           "architecture": "cortex-m4",
-          "version": "0.0.2",
+          "version": "0.0.3",
           "category": "Contributed",
-          "url": "https://raw.githubusercontent.com/SharkFinGear/boards/main/ifin-tracker-0.0.2.zip",
-          "archiveFileName": "ifin-tracker-0.0.2.zip",
-          "checksum": "SHA-256:094114b4be2bb7427371b1bb7ab3b991dbad5440773baa1782987b1593a96763",
-          "size": "11949776",
+          "url": "https://raw.githubusercontent.com/SharkFinGear/boards/main/ifin-tracker-0.0.3.zip",
+          "archiveFileName": "ifin-tracker-0.0.3.zip",
+          "checksum": "SHA-256:fae0f5c7f00cb9c02dd0d1f912dfabf9aed04c9ee7948ad7cd0d4467d3c46d75",
+          "size": "11949746",
           "boards": [
             {
-              "name": "iFIN Tracker"
+              "name": "SF MicroMod nRF52840"
+            },
+            {
+              "name": "SFG iFIN Tracker"
             }
           ],
           "toolsDependencies":
